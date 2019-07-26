@@ -3,6 +3,7 @@
 ## Installation
 
 #### Setup the database and api:
+
 ```shell
 docker-compose up --build db api
 ```
@@ -12,3 +13,5 @@ docker-compose up --build db api
 ```shell
 cd app && npm install && npm start
 ```
+
+...
